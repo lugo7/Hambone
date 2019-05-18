@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<eventList>
+  <event>
+    <venue>Cat's Cradle</venue>
+    <city>Carrboro</city>
+    <date>7/07/17</date>
+    <time>9:30p.m</time>
+  </event>
+  <event>
+    <venue>The Cave</venue>
+    <city>Durham</city>
+    <date>7/14/17</date>
+    <time>10:00p.m</time>
+  </event>
+  <event>
+    <venue>Local 506</venue>
+    <city>Chapel Hill</city>
+    <date>7/22/17</date>
+    <time>9:30p.m</time>
+  </event>
+  <event>
+    <venue>Cat's Cradle</venue>
+    <city>Carrboro</city>
+    <date>7/29/17</date>
+    <time>10:30p.m</time>
+  </event>
+</eventList>
